@@ -21,8 +21,8 @@ const contact = document.getElementById('contact-anchor');
 
 scrollToPosition(about, 0.4);
 scrollToPosition(skills, 1.05);
-scrollToPosition(projects, 2);
-scrollToPosition(contact, 4);
+scrollToPosition(projects, 2.075);
+scrollToPosition(contact, 5);
 
 
 
